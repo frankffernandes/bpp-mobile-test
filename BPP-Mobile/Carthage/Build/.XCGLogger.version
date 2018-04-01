@@ -1,0 +1,43 @@
+{
+  "Mac" : [
+    {
+      "name" : "ObjcExceptionBridging",
+      "hash" : "5c4acb51b1e54310023a7ff394df94c6c6ef445e065c1392fad2ef8a7fe1fe8d"
+    },
+    {
+      "name" : "XCGLogger",
+      "hash" : "124bb1a0e24301b2b52e293348153bb18f465dc2fd8c3326e20345f6d3860c14"
+    }
+  ],
+  "watchOS" : [
+    {
+      "name" : "ObjcExceptionBridging",
+      "hash" : "76e09c7c10040ea657245b51f7ed39e8f402dc51c1e18343ac723992cf7ca7ba"
+    },
+    {
+      "name" : "XCGLogger",
+      "hash" : "e1b1c15b38bdeae8b3ff67278bdb8e81c887f0dc32655d69168841a6353a3450"
+    }
+  ],
+  "tvOS" : [
+    {
+      "name" : "ObjcExceptionBridging",
+      "hash" : "73cafc6152c02cf4dd792390140482e9e2a7632b940f845b33be18288593a015"
+    },
+    {
+      "name" : "XCGLogger",
+      "hash" : "fd59a9c6b60a6e500a8fe03a71d3e018780ab6cdb3e9573cabcc1675bf8acc9f"
+    }
+  ],
+  "commitish" : "6.0.2",
+  "iOS" : [
+    {
+      "name" : "ObjcExceptionBridging",
+      "hash" : "34f1f6c811027f05674360fdc7e8cf4509ad6f226d0bc3c16812591b6ee1c60b"
+    },
+    {
+      "name" : "XCGLogger",
+      "hash" : "254f7457568d915d2433efaa9614f3278afdfd9dcf72ae3bc5038ccfeadb4625"
+    }
+  ]
+}
